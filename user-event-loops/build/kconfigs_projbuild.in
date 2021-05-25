@@ -1,0 +1,5 @@
+source "C:/Users/erhan/Desktop/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/erhan/Desktop/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/erhan/Desktop/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/erhan/Desktop/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/erhan/github/esp32_playground/user-event-loops/main/Kconfig.projbuild"

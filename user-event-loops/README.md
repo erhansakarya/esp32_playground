@@ -1,5 +1,15 @@
-# Blink Example
+I (317) user_event_loops: starting event source
 
-Starts a FreeRTOS task to blink an LED
+I (327) user_event_loops: posting SENSOR_EVENTS:0
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
+I (327) user_event_loops: handling SENSOR_EVENTS:0
+
+I (337) user_event_loops: configure sensor event occured!
+
+I (837) user_event_loops: posting SENSOR_EVENTS:1
+
+I (837) user_event_loops: handling SENSOR_EVENTS:1
+
+I (837) user_event_loops: read sensor event occured!
+
+I (1837) user_event_loops: deleting task event source
